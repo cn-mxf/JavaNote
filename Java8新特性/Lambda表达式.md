@@ -12,7 +12,7 @@
 
 3.创建了这个类的对象。
 
-```plain
+```java
 @Test
 public void testLambda(){
     new Thread(new Runnable() {
